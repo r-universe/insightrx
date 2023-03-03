@@ -2,5 +2,9 @@
   {
     "package": "clinPK",
     "oncran": true
+  },
+  {
+    "package": "PKPDsim",
+    "oncran": true
   }
 ]

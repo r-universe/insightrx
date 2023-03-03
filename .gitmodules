@@ -8,3 +8,8 @@
 	url = https://github.com/insightrx/clinpk
 	shallow = true
 	registered = true
+[submodule "PKPDsim"]
+	path = PKPDsim
+	url = https://github.com/insightrx/pkpdsim
+	shallow = true
+	registered = true
