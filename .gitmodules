@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clinPK"]
-	path = clinPK
-	url = https://github.com/insightrx/clinpk
 [submodule "PKPDsim"]
 	path = PKPDsim
 	url = https://github.com/insightrx/pkpdsim
+[submodule "clinPK"]
+	path = clinPK
+	url = https://github.com/insightrx/clinpk
